@@ -24,6 +24,6 @@ body {
   color: rgb(var(--text-rgb));
   background-color: rgb(var(--background-rgb));
 }
-nav {
+header {
   background-color: rgb(var(--secondary-background-color-rgb));
 }

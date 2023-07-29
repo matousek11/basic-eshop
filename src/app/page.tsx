@@ -1,10 +1,11 @@
 import Layout from '@/modules/layout/Layout'
-import Image from 'next/image'
 
 export default function Home() {
   return (
     <Layout>
-      <p>Hello world</p>
+      <header className="flex justify-center items-center h-64">
+        <h1 className="text-4xl font-light">Offers</h1>
+      </header>
     </Layout>
   )
 }
